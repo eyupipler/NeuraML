@@ -4,7 +4,7 @@ Açık kaynak kodlu arama motorundan topladığı verilerle eğitilip sonuçlar�
 
 ## Nasıl Kullanılır?
 
-"NeuraML.py" dosyasını çalıştırıp uygulamayı kullanabilirsiniz.
+"NeuraML-SE.py" dosyasını çalıştırıp uygulamayı kullanabilirsiniz.
 
 ### Modülleri Kurma
 
