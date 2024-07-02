@@ -19,7 +19,7 @@ nlp = spacy.load("xx_ent_wiki_sm")
 nlp.add_pipe("sentencizer")
 
 
-class BrAInML(QWidget):
+class NeuraML(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle('NeuraML-SE (2.03.018a)')
@@ -183,6 +183,6 @@ if __name__ == '__main__':
     app.setStyle('Fusion')
     font = QFont("Arial", 10)
     app.setFont(font)
-    window = BrAInML()
+    window = NeuraML()
     window.show()
     sys.exit(app.exec_())
