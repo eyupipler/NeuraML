@@ -1,0 +1,495 @@
+python,"The official home of the Python Programming Language
+The official home of the Python Programming Language
+
+Ba�lang�� seviyesinden ba�layarak A'dan Z'ye bir Python e�itimi olarak planlad���m�z bu seride, Python programlama dilini kullan�rken bilmeniz gereken b�t�n ...
+
+
+
+<section class=""container"" style=""margin-bottom:20px"">
+<div id=""tab-container"" class=""tab-content"">
+<div id=""faq-block"" class=""partial-removable-block"">
+<div id=""faq"" class=""tab-pane fade active show"">
+<div class=""row"">
+<div class=""col-md-12 col-xs-12 col-sm-12"">
+<div id=""accordion"">
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim Amac�</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�m, donan�m ve bilisim d�nyas�na ait temel kavramlar�n �gretilmesi.</li><li>Kursiyerlerin ilerleyen dersler boyunca yaz�l�m yeteneklerini gelistirmesi hedeflenir.</li><li>Olduk�a yayg�n bir sekilde kullan�lan yaz�l�m dilleri konusunda fikir sahibi olmas� saglan�r.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim �zeti</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Her konunun kal�c�l���n� sa�lamak i�in bir �ok python uygulamas� yapaca��z.</li><li>B�l�m sonlar�nda konular�n hepsini kapsayan python �devlerimizi yapaca��z.</li><li>Kurs boyunca en gerekli python derslerini en gerekti�i kadar detayl� bir �ekilde uygulayarak ��renece�iz.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Hedef Kitle</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merakl� herkes</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Gereksinimler</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merak</li><li>Temel bilgisayar bilgisi</li><li>Temel algoritma bilgisi� (<a href=""https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565"" target=""_blank"" rel=""noopener noreferrer"">Algoritma Programlama ve Veri Yap�lar�na Giri�</a> e�itiminden yararlanabilirsiniz.)</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Kazan�mlar</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma farkl� bak�� a��lar� kazan�r,</li><li>U�tan uca yaz�l�m d�nyas�n� alg�lar,</li><li>Yaz�l�m proje y�netim tekniklerini uygulayabilir.</li><li>Python ile Programlamay� iyi bir �ekilde ��renmi� olacaks�n�z.</li><li>Python ile Nesne Tabanl� Programlamay� ��renerek daha kaliteli uygulamalar� yazabiliyor olacaks�n�z.</li><li>Farkl� veritaban� (MySql, SQLite, MongoDb) servisleriyle nas�l �al��aca��m�z� ��renmi� olaca��z.</li><li>Python&#39;da mod�l kullan�m�n� detayl� �ekilde ��renerek haz�r mod�lleri kullanman�n tad�na varacaks�n�z.</li><li>PyQt5 ile Python&#39;da masa�st� uygulamalar� geli�tirebiliyor olacaks�n�z.</li><li>Django ile dinamik web uygulamalar�n� geli�tirebiliyor olacaks�n�z.</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+Online-Python is a quick and easy tool that helps you to build, compile, test your python programs.
+Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and machine learning engineers alike.
+"
+machine learning,Hata: 403 Client Error: Forbidden for url: https://www.datacamp.com/blog/what-is-machine-learning
+what AI,"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+Artificial intelligence (AI) is technology that enables computers and digital devices to learn, read, write, create and analyze.
+
+Artificial intelligence (AI) is a branch of computer science concerned with building machines capable of performing tasks that typically require human intelligence.
+Artificial intelligence or AI refers to the simulation of human intelligence in machines that are programmed to think and act like humans.
+In this McKinsey Explainer, we define what AI is, and look at how rapid advances in Artificial Intelligence are reshaping almost every aspect of global society.
+The term is frequently applied to the project of developing systems with the ability to reason, discover meaning, generalize, or learn from past experiences.
+AI works by combining vast amounts of data with fast, iterative processing and intelligent algorithms.
+AI benefits, uses cases, and examples.
+
+If you want to know about the fascinating and fast-developing technologies of artificial intelligence, we cover everything from machine learning and general AI to neural networks.
+"
+what ai,"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+Artificial intelligence (AI) is technology that enables computers and digital devices to learn, read, write, create and analyze.
+
+Artificial intelligence technology allows computers and machines to simulate human intelligence and problem-solving capabilities.
+Artificial intelligence (AI) is a branch of computer science concerned with building machines capable of performing tasks that typically require human intelligence.
+AI benefits, uses cases, and examples.
+In this McKinsey Explainer, we define what AI is, and look at how rapid advances in Artificial Intelligence are reshaping almost every aspect of global society.
+If you want to know about the fascinating and fast-developing technologies of artificial intelligence, we cover everything from machine learning and general AI to neural networks.
+The term is frequently applied to the project of developing systems with the ability to reason, discover meaning, generalize, or learn from past experiences.
+AI works by combining vast amounts of data with fast, iterative processing and intelligent algorithms.
+"
+machine learning,Hata: 403 Client Error: Forbidden for url: https://www.datacamp.com/blog/what-is-machine-learning
+python,"The official home of the Python Programming Language
+The official home of the Python Programming Language
+
+
+<section class=""container"" style=""margin-bottom:20px"">
+<div id=""tab-container"" class=""tab-content"">
+<div id=""faq-block"" class=""partial-removable-block"">
+<div id=""faq"" class=""tab-pane fade active show"">
+<div class=""row"">
+<div class=""col-md-12 col-xs-12 col-sm-12"">
+<div id=""accordion"">
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim Amac�</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�m, donan�m ve bilisim d�nyas�na ait temel kavramlar�n �gretilmesi.</li><li>Kursiyerlerin ilerleyen dersler boyunca yaz�l�m yeteneklerini gelistirmesi hedeflenir.</li><li>Olduk�a yayg�n bir sekilde kullan�lan yaz�l�m dilleri konusunda fikir sahibi olmas� saglan�r.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim �zeti</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Her konunun kal�c�l���n� sa�lamak i�in bir �ok python uygulamas� yapaca��z.</li><li>B�l�m sonlar�nda konular�n hepsini kapsayan python �devlerimizi yapaca��z.</li><li>Kurs boyunca en gerekli python derslerini en gerekti�i kadar detayl� bir �ekilde uygulayarak ��renece�iz.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Hedef Kitle</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merakl� herkes</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Gereksinimler</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merak</li><li>Temel bilgisayar bilgisi</li><li>Temel algoritma bilgisi� (<a href=""https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565"" target=""_blank"" rel=""noopener noreferrer"">Algoritma Programlama ve Veri Yap�lar�na Giri�</a> e�itiminden yararlanabilirsiniz.)</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Kazan�mlar</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma farkl� bak�� a��lar� kazan�r,</li><li>U�tan uca yaz�l�m d�nyas�n� alg�lar,</li><li>Yaz�l�m proje y�netim tekniklerini uygulayabilir.</li><li>Python ile Programlamay� iyi bir �ekilde ��renmi� olacaks�n�z.</li><li>Python ile Nesne Tabanl� Programlamay� ��renerek daha kaliteli uygulamalar� yazabiliyor olacaks�n�z.</li><li>Farkl� veritaban� (MySql, SQLite, MongoDb) servisleriyle nas�l �al��aca��m�z� ��renmi� olaca��z.</li><li>Python&#39;da mod�l kullan�m�n� detayl� �ekilde ��renerek haz�r mod�lleri kullanman�n tad�na varacaks�n�z.</li><li>PyQt5 ile Python&#39;da masa�st� uygulamalar� geli�tirebiliyor olacaks�n�z.</li><li>Django ile dinamik web uygulamalar�n� geli�tirebiliyor olacaks�n�z.</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+Online-Python is a quick and easy tool that helps you to build, compile, test your python programs.
+You can use Python Shell like IDLE, and take inputs from the user in our Python compiler.
+
+learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast.
+"
+python,"The official home of the Python Programming Language
+The official home of the Python Programming Language
+
+
+<section class=""container"" style=""margin-bottom:20px"">
+<div id=""tab-container"" class=""tab-content"">
+<div id=""faq-block"" class=""partial-removable-block"">
+<div id=""faq"" class=""tab-pane fade active show"">
+<div class=""row"">
+<div class=""col-md-12 col-xs-12 col-sm-12"">
+<div id=""accordion"">
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim Amac�</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�m, donan�m ve bilisim d�nyas�na ait temel kavramlar�n �gretilmesi.</li><li>Kursiyerlerin ilerleyen dersler boyunca yaz�l�m yeteneklerini gelistirmesi hedeflenir.</li><li>Olduk�a yayg�n bir sekilde kullan�lan yaz�l�m dilleri konusunda fikir sahibi olmas� saglan�r.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim �zeti</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Her konunun kal�c�l���n� sa�lamak i�in bir �ok python uygulamas� yapaca��z.</li><li>B�l�m sonlar�nda konular�n hepsini kapsayan python �devlerimizi yapaca��z.</li><li>Kurs boyunca en gerekli python derslerini en gerekti�i kadar detayl� bir �ekilde uygulayarak ��renece�iz.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Hedef Kitle</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merakl� herkes</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Gereksinimler</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merak</li><li>Temel bilgisayar bilgisi</li><li>Temel algoritma bilgisi� (<a href=""https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565"" target=""_blank"" rel=""noopener noreferrer"">Algoritma Programlama ve Veri Yap�lar�na Giri�</a> e�itiminden yararlanabilirsiniz.)</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Kazan�mlar</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma farkl� bak�� a��lar� kazan�r,</li><li>U�tan uca yaz�l�m d�nyas�n� alg�lar,</li><li>Yaz�l�m proje y�netim tekniklerini uygulayabilir.</li><li>Python ile Programlamay� iyi bir �ekilde ��renmi� olacaks�n�z.</li><li>Python ile Nesne Tabanl� Programlamay� ��renerek daha kaliteli uygulamalar� yazabiliyor olacaks�n�z.</li><li>Farkl� veritaban� (MySql, SQLite, MongoDb) servisleriyle nas�l �al��aca��m�z� ��renmi� olaca��z.</li><li>Python&#39;da mod�l kullan�m�n� detayl� �ekilde ��renerek haz�r mod�lleri kullanman�n tad�na varacaks�n�z.</li><li>PyQt5 ile Python&#39;da masa�st� uygulamalar� geli�tirebiliyor olacaks�n�z.</li><li>Django ile dinamik web uygulamalar�n� geli�tirebiliyor olacaks�n�z.</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+Online-Python is a quick and easy tool that helps you to build, compile, test your python programs.
+You can use Python Shell like IDLE, and take inputs from the user in our Python compiler.
+
+learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast.
+"
+python,"The official home of the Python Programming Language
+The official home of the Python Programming Language
+
+
+<section class=""container"" style=""margin-bottom:20px"">
+<div id=""tab-container"" class=""tab-content"">
+<div id=""faq-block"" class=""partial-removable-block"">
+<div id=""faq"" class=""tab-pane fade active show"">
+<div class=""row"">
+<div class=""col-md-12 col-xs-12 col-sm-12"">
+<div id=""accordion"">
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim Amac�</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�m, donan�m ve bilisim d�nyas�na ait temel kavramlar�n �gretilmesi.</li><li>Kursiyerlerin ilerleyen dersler boyunca yaz�l�m yeteneklerini gelistirmesi hedeflenir.</li><li>Olduk�a yayg�n bir sekilde kullan�lan yaz�l�m dilleri konusunda fikir sahibi olmas� saglan�r.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim �zeti</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Her konunun kal�c�l���n� sa�lamak i�in bir �ok python uygulamas� yapaca��z.</li><li>B�l�m sonlar�nda konular�n hepsini kapsayan python �devlerimizi yapaca��z.</li><li>Kurs boyunca en gerekli python derslerini en gerekti�i kadar detayl� bir �ekilde uygulayarak ��renece�iz.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Hedef Kitle</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merakl� herkes</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Gereksinimler</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merak</li><li>Temel bilgisayar bilgisi</li><li>Temel algoritma bilgisi� (<a href=""https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565"" target=""_blank"" rel=""noopener noreferrer"">Algoritma Programlama ve Veri Yap�lar�na Giri�</a> e�itiminden yararlanabilirsiniz.)</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Kazan�mlar</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma farkl� bak�� a��lar� kazan�r,</li><li>U�tan uca yaz�l�m d�nyas�n� alg�lar,</li><li>Yaz�l�m proje y�netim tekniklerini uygulayabilir.</li><li>Python ile Programlamay� iyi bir �ekilde ��renmi� olacaks�n�z.</li><li>Python ile Nesne Tabanl� Programlamay� ��renerek daha kaliteli uygulamalar� yazabiliyor olacaks�n�z.</li><li>Farkl� veritaban� (MySql, SQLite, MongoDb) servisleriyle nas�l �al��aca��m�z� ��renmi� olaca��z.</li><li>Python&#39;da mod�l kullan�m�n� detayl� �ekilde ��renerek haz�r mod�lleri kullanman�n tad�na varacaks�n�z.</li><li>PyQt5 ile Python&#39;da masa�st� uygulamalar� geli�tirebiliyor olacaks�n�z.</li><li>Django ile dinamik web uygulamalar�n� geli�tirebiliyor olacaks�n�z.</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+Online-Python is a quick and easy tool that helps you to build, compile, test your python programs.
+You can use Python Shell like IDLE, and take inputs from the user in our Python compiler.
+
+Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and machine learning engineers alike.
+"
+python,"The official home of the Python Programming Language
+The official home of the Python Programming Language
+
+
+<section class=""container"" style=""margin-bottom:20px"">
+<div id=""tab-container"" class=""tab-content"">
+<div id=""faq-block"" class=""partial-removable-block"">
+<div id=""faq"" class=""tab-pane fade active show"">
+<div class=""row"">
+<div class=""col-md-12 col-xs-12 col-sm-12"">
+<div id=""accordion"">
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim Amac�</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�m, donan�m ve bilisim d�nyas�na ait temel kavramlar�n �gretilmesi.</li><li>Kursiyerlerin ilerleyen dersler boyunca yaz�l�m yeteneklerini gelistirmesi hedeflenir.</li><li>Olduk�a yayg�n bir sekilde kullan�lan yaz�l�m dilleri konusunda fikir sahibi olmas� saglan�r.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim �zeti</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Her konunun kal�c�l���n� sa�lamak i�in bir �ok python uygulamas� yapaca��z.</li><li>B�l�m sonlar�nda konular�n hepsini kapsayan python �devlerimizi yapaca��z.</li><li>Kurs boyunca en gerekli python derslerini en gerekti�i kadar detayl� bir �ekilde uygulayarak ��renece�iz.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Hedef Kitle</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merakl� herkes</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Gereksinimler</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merak</li><li>Temel bilgisayar bilgisi</li><li>Temel algoritma bilgisi� (<a href=""https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565"" target=""_blank"" rel=""noopener noreferrer"">Algoritma Programlama ve Veri Yap�lar�na Giri�</a> e�itiminden yararlanabilirsiniz.)</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Kazan�mlar</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma farkl� bak�� a��lar� kazan�r,</li><li>U�tan uca yaz�l�m d�nyas�n� alg�lar,</li><li>Yaz�l�m proje y�netim tekniklerini uygulayabilir.</li><li>Python ile Programlamay� iyi bir �ekilde ��renmi� olacaks�n�z.</li><li>Python ile Nesne Tabanl� Programlamay� ��renerek daha kaliteli uygulamalar� yazabiliyor olacaks�n�z.</li><li>Farkl� veritaban� (MySql, SQLite, MongoDb) servisleriyle nas�l �al��aca��m�z� ��renmi� olaca��z.</li><li>Python&#39;da mod�l kullan�m�n� detayl� �ekilde ��renerek haz�r mod�lleri kullanman�n tad�na varacaks�n�z.</li><li>PyQt5 ile Python&#39;da masa�st� uygulamalar� geli�tirebiliyor olacaks�n�z.</li><li>Django ile dinamik web uygulamalar�n� geli�tirebiliyor olacaks�n�z.</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+Online-Python is a quick and easy tool that helps you to build, compile, test your python programs.
+You can use Python Shell like IDLE, and take inputs from the user in our Python compiler.
+
+Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and machine learning engineers alike.
+"
+python,"The official home of the Python Programming Language
+The official home of the Python Programming Language
+
+
+
+<section class=""container"" style=""margin-bottom:20px"">
+<div id=""tab-container"" class=""tab-content"">
+<div id=""faq-block"" class=""partial-removable-block"">
+<div id=""faq"" class=""tab-pane fade active show"">
+<div class=""row"">
+<div class=""col-md-12 col-xs-12 col-sm-12"">
+<div id=""accordion"">
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim Amac�</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�m, donan�m ve bilisim d�nyas�na ait temel kavramlar�n �gretilmesi.</li><li>Kursiyerlerin ilerleyen dersler boyunca yaz�l�m yeteneklerini gelistirmesi hedeflenir.</li><li>Olduk�a yayg�n bir sekilde kullan�lan yaz�l�m dilleri konusunda fikir sahibi olmas� saglan�r.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">E�itim �zeti</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Her konunun kal�c�l���n� sa�lamak i�in bir �ok python uygulamas� yapaca��z.</li><li>B�l�m sonlar�nda konular�n hepsini kapsayan python �devlerimizi yapaca��z.</li><li>Kurs boyunca en gerekli python derslerini en gerekti�i kadar detayl� bir �ekilde uygulayarak ��renece�iz.</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Hedef Kitle</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merakl� herkes</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Gereksinimler</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma merak</li><li>Temel bilgisayar bilgisi</li><li>Temel algoritma bilgisi� (<a href=""https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565"" target=""_blank"" rel=""noopener noreferrer"">Algoritma Programlama ve Veri Yap�lar�na Giri�</a> e�itiminden yararlanabilirsiniz.)</li></ul>
+</div>
+</div>
+</div>
+<div class=""card"">
+<div class=""card-header"" style=""background:rgba( 238 , 238 , 238 , 0.8 )"">
+<div class=""collapsed"" style=""font-weight:bold;color:#636d77"">Kazan�mlar</div>
+</div>
+<div class=""collapse show"">
+<div class=""card-block"">
+<ul><li>Yaz�l�ma farkl� bak�� a��lar� kazan�r,</li><li>U�tan uca yaz�l�m d�nyas�n� alg�lar,</li><li>Yaz�l�m proje y�netim tekniklerini uygulayabilir.</li><li>Python ile Programlamay� iyi bir �ekilde ��renmi� olacaks�n�z.</li><li>Python ile Nesne Tabanl� Programlamay� ��renerek daha kaliteli uygulamalar� yazabiliyor olacaks�n�z.</li><li>Farkl� veritaban� (MySql, SQLite, MongoDb) servisleriyle nas�l �al��aca��m�z� ��renmi� olaca��z.</li><li>Python&#39;da mod�l kullan�m�n� detayl� �ekilde ��renerek haz�r mod�lleri kullanman�n tad�na varacaks�n�z.</li><li>PyQt5 ile Python&#39;da masa�st� uygulamalar� geli�tirebiliyor olacaks�n�z.</li><li>Django ile dinamik web uygulamalar�n� geli�tirebiliyor olacaks�n�z.</li></ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+Online-Python is a quick and easy tool that helps you to build, compile, test your python programs.
+learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast.
+
+Contribute to python/cpython development by creating an account on GitHub.
+
+From basic to advanced projects, grow your Python skills at Codecademy.
+"
+what AI,"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+Artificial intelligence (AI) is technology that enables computers and digital devices to learn, read, write, create and analyze.
+In this McKinsey Explainer, we define what AI is, and look at how rapid advances in Artificial Intelligence are reshaping almost every aspect of global society.
+Artificial intelligence technology allows computers and machines to simulate human intelligence and problem-solving capabilities.
+
+Artificial intelligence (AI) is a branch of computer science concerned with building machines capable of performing tasks that typically require human intelligence.
+Artificial intelligence is a technology that allows you to generate, classify, and perform tasks like image analysis and speech recognition.
+If you want to know about the fascinating and fast-developing technologies of artificial intelligence, we cover everything from machine learning and general AI to neural networks.
+The term is frequently applied to the project of developing systems with the ability to reason, discover meaning, generalize, or learn from past experiences.
+
+Find out what is Artificial Intelligence, how and why businesses use Artificial Intelligence, and how to use Artificial Intelligence with AWS.
+"
+what AI,"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+Artificial intelligence (AI) is technology that enables computers and digital devices to learn, read, write, create and analyze.
+In this McKinsey Explainer, we define what AI is, and look at how rapid advances in Artificial Intelligence are reshaping almost every aspect of global society.
+Artificial intelligence technology allows computers and machines to simulate human intelligence and problem-solving capabilities.
+
+Artificial intelligence (AI) is a branch of computer science concerned with building machines capable of performing tasks that typically require human intelligence.
+Artificial intelligence is a technology that allows you to generate, classify, and perform tasks like image analysis and speech recognition.
+The term is frequently applied to the project of developing systems with the ability to reason, discover meaning, generalize, or learn from past experiences.
+If you want to know about the fascinating and fast-developing technologies of artificial intelligence, we cover everything from machine learning and general AI to neural networks.
+
+Find out what is Artificial Intelligence, how and why businesses use Artificial Intelligence, and how to use Artificial Intelligence with AWS.
+"python,Hata: 403 Client Error: Forbidden for url: https://www.udemy.com/topic/python/
