@@ -1,2 +1,3 @@
 # NeuraML
-Machine learning integrated search engine app.
+
+Açık kaynak kodlu arama motorundan topladığı verilerle eğitilip sonuçları daha düzgün hale getirmeyi amaçlayan bir makine öğrenimi uygulamasıdır. Bu uygulamayı ve algoritmayı kurallar çerçevesinde herkes için geliştirmeye açıktır. Neurazum olarak EEG yapay zeka modellerinin yanı sıra bu tarz modeller üzerinde de çalışıyoruz. NeuraML ise bunlardan bir tanesidir. Hiçbir kar amacı gütmeden ilgilenen kişi sayısı çok az bile olsa bu uygulama her zaman tamamen açık kaynak olarak kalacaktır. Amacımız, Türkiye'de ki yapay zeka konusunda hızlı bir şekilde dünyadaki gelişmeleri güncel olarak takip edip kendimizi daha da geliştirmektir. Şu an uygulama içerisinde bir çok hata mevcut fakat gerek Neurazum olarak gerek bu uygulamaya katkı sağlamak isteyenler olsun bu hataların hızlı bir şekilde çözüleceğine eminim. Herkese kolaylıklar dilerim 💫.
